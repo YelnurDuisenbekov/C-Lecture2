@@ -1,0 +1,15 @@
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.csproj.AssemblyReference.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.AssemblyInfoInputs.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.AssemblyInfo.cs
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.csproj.CoreCompileInputs.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\bin\Debug\net6.0\TaskArray.exe
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\bin\Debug\net6.0\TaskArray.deps.json
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\bin\Debug\net6.0\TaskArray.runtimeconfig.json
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\bin\Debug\net6.0\TaskArray.dll
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\bin\Debug\net6.0\TaskArray.pdb
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.dll
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\refint\TaskArray.dll
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.pdb
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\TaskArray.genruntimeconfig.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArray\obj\Debug\net6.0\ref\TaskArray.dll

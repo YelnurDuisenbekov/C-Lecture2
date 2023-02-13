@@ -1,0 +1,15 @@
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.csproj.AssemblyReference.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.AssemblyInfoInputs.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.AssemblyInfo.cs
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.csproj.CoreCompileInputs.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\bin\Debug\net6.0\TaskArrayVoid.exe
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\bin\Debug\net6.0\TaskArrayVoid.deps.json
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\bin\Debug\net6.0\TaskArrayVoid.runtimeconfig.json
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\bin\Debug\net6.0\TaskArrayVoid.dll
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\bin\Debug\net6.0\TaskArrayVoid.pdb
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.dll
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\refint\TaskArrayVoid.dll
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.pdb
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\TaskArrayVoid.genruntimeconfig.cache
+C:\Users\WW\Desktop\C#\Lecture2\TaskArrayVoid\obj\Debug\net6.0\ref\TaskArrayVoid.dll
